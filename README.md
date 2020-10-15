@@ -47,8 +47,8 @@ b为左岸船的个数（左：1；右0）<br>
  F={L01,L10,L11,L02,L20,R01, R10, R11, R02, R20}。</p>
  
  
-'''python
-# 运行方法
-# win下cmd
->>> python main.py
-'''
+
+ 运行方法
+ win下cmd
+<%python main.py%>
+
